@@ -24,6 +24,6 @@ If you want to have more information on the dataset or on how to retrieve full a
 
 ## References: 
 
-[1] D. Haputhanthrige, S. Wimalaratne, S. Kahawala, G. Gamage, D. Alahakoon and A. Jennings, “UNISOLAR: An Open Dataset of Photovoltaic 
+[1] S. Wimalaratne, D. Haputhanthri, S. Kahawala, G. Gamage, D. Alahakoon and A. Jennings, “UNISOLAR: An Open Dataset of Photovoltaic 
 Solar Energy Generation in a Large Multi-Campus 
 University Setting,” 2022.
