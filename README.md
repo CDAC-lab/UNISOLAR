@@ -2,7 +2,7 @@
 
 This repository contains small subset of UNISOLAR dataset with a jupyter notebooks to get start with the dataset.
 
-If you use this dataset for any publicity or project, please cite the following paper: [[1]](#1)
+If you use this dataset for any publicity or project, please cite the following paper: [[1]](#1) https://ieeexplore.ieee.org/document/9869474
 
 ## About UNISOLAR Dataset
 
