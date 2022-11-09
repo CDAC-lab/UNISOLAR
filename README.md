@@ -11,9 +11,11 @@ A high granularity data dictionary and technical validation of the dataset for f
 
 All the data available in the dataset are stored in CSV format. Detailed Information about the complete dataset can be found in UNISOLAR paper in [[1]](#1)
 
+**Dataset location:** https://www.kaggle.com/datasets/cdaclab/unisolar
+
 ## Contacts:
 
-If you want to have more information on the dataset or on how to retrieve full access to the data, please feel free to contact us
+If you want to have more information on the dataset, please feel free to contact us
 
 | Name | E-Mail |
 | --- | --- |
